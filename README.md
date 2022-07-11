@@ -27,4 +27,4 @@ Gerenciamento simplista de uam editora desenvolvido em um sistema web em Java us
 ### Edição do codigo e integração com o git
 - Visual Studio Code
 
-### Descrição da API dentro do README da pasta pagamentosfut
+### Descrição da API dentro do README da pasta secauth
