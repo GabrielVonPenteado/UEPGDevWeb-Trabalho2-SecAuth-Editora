@@ -9,7 +9,7 @@ Trabalho 2 da disciplina de Desenvolvimento WEB 2022 - Framework Spring e Segura
 
 ## Projeto
 
-Gerenciamento simplista de uam editora desenvolvido em um sistema web em Java usando o framework Spring e o sistema de segurança AWS
+Gerenciamento simplista de uma editora desenvolvido em um sistema web em Java usando o framework Spring e o sistema de segurança AWS
 
 ## O que foi utilizado
 
@@ -27,4 +27,4 @@ Gerenciamento simplista de uam editora desenvolvido em um sistema web em Java us
 ### Edição do codigo e integração com o git
 - Visual Studio Code
 
-### Descrição da API dentro do README da pasta secauth
+### Descrição da API dentro do README da pasta editora
