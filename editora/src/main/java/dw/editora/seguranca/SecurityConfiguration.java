@@ -33,7 +33,7 @@ public class SecurityConfiguration extends WebSecurityConfigurerAdapter {
                     .oauth2Login()
                 .and()
                     .logout()
-                    //.logoutSuccessHandler(new CognitoOidcLogoutSuccessHandler())
+                    .logoutSuccessHandler(new CognitoOidcLogoutSuccessHandler(clientId, logoutURL, redirectURI))
                     .invalidateHttpSession(true)
                     .clearAuthentication(true)
                     .deleteCookies("JSESSIONID");
