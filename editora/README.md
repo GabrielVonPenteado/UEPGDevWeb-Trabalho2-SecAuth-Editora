@@ -46,4 +46,4 @@ Nelas que temos os métodos GET, POST, DELETE, PUT etc onde podemos utilizar os 
 
 ## Testes
 
-Para os testes foi usado a IDE pgAdmin para verificarmos o que está acontecendo no banco. Ao rodarmos a aplicação no Maven, as tabelas já foram criadas automaticamente no banco pagamentosfut criado, com suas colunas e chaves primárias e estrangeiras devidamente atribuidas.
+Para os testes foi usado a IDE pgAdmin para verificarmos o que está acontecendo no banco. Ao rodarmos a aplicação no Maven, as tabelas já foram criadas automaticamente no banco secauth criado, com suas colunas e chaves primárias e estrangeiras devidamente atribuidas.
