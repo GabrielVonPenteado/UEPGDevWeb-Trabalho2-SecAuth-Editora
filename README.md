@@ -4,6 +4,7 @@ Trabalho 2 da disciplina de Desenvolvimento WEB 2022 - Framework Spring e Segura
 
 ## Equipe
 
+- Erick Moro Conche - 18
 - Fábio Cesar Polinski - 18009426
 - Gabriel Penteado - 18003026
 

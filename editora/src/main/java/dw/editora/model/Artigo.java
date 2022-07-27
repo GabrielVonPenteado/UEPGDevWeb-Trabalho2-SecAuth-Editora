@@ -16,7 +16,7 @@ public class Artigo {
     private long id;
 
     //Dizer que será uma coluna com nome titulo_artigo
-    //NOT NUL (definition not null)
+    //NOT NULL (definition not null)
     @Column (name="titulo_artigo")
     private String titulo;
 
