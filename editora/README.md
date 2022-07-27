@@ -38,7 +38,7 @@ Nelas que temos os métodos GET, POST, DELETE, PUT etc onde podemos utilizar os 
 - SecurituConfiguration:
 
 
-## Classes Template
+## Templates
 
 - index.html
 
