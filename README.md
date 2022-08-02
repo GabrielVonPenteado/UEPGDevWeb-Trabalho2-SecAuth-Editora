@@ -1,10 +1,10 @@
 # UEPGDevWeb-Trabalho2-SecAuth-Editora
 
 Trabalho 2 da disciplina de Desenvolvimento WEB 2022 - Framework Spring e Segurança
-.
+
 ## Equipe
 
-- Erick Moro Conche - 18
+- Erick Luis Moro Conche - 18002126
 - Fábio Cesar Polinski - 18009426
 - Gabriel Penteado - 18003026
 
