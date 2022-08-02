@@ -1,7 +1,7 @@
 # UEPGDevWeb-Trabalho2-SecAuth-Editora
 
 Trabalho 2 da disciplina de Desenvolvimento WEB 2022 - Framework Spring e Segurança
-
+.
 ## Equipe
 
 - Erick Moro Conche - 18
